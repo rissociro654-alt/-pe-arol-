@@ -1,7 +1,7 @@
 const HaxBall = require('haxball.js');
 
 // Configuración
-const ROOM_LINK = 'https://www.haxball.com/room/https://www.haxball.com/play?c=6tNpoN9KY3Y
+const ROOM_LINK =https://www.haxball.com/play?c=e4ojnNPm_D4
 const BOT_NAME = 'Bot-SuperHost';
 
 // Conectar a la room
